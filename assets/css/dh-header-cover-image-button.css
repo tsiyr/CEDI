@@ -1,0 +1,50 @@
+.header {
+  width:100%;
+  margin-top:97px;
+}
+
+.header-container {
+  background:url(../img/law-bg.jpg) no-repeat center center;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  padding:50px 0 300px 0;
+  height:auto;
+}
+
+.cta_buttons {
+}
+
+@media (max-width: 600px) {
+  #leftmost_footer_col {
+    display:none;
+  }
+}
+
+@media (max-width: 600px) {
+  #copyright_ {
+    padding-left:20%;
+    padding-right:20%;
+  }
+}
+
+@media (min-width: 601px) {
+  #message_btn_home {
+    margin-left:5%;
+  }
+}
+
+@media (max-width: 600px) {
+  .cta_buttons {
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    margin-bottom:12px;
+  }
+}
+
+.container_col {
+  margin-top:80px;
+}
+

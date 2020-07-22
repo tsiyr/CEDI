@@ -1,0 +1,55 @@
+[13-Jul-2020 11:48:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:24:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendEmail() in /home/compassi/public_html/includes/mail.php:334
+Stack trace:
+#0 {main}
+  thrown in /home/compassi/public_html/includes/mail.php on line 334
+[13-Jul-2020 12:27:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:27:53 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 12:27:53 UTC] PHP Notice:  Undefined variable: error in /home/compassi/public_html/includes/mail.php on line 358
+[13-Jul-2020 12:40:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:40:25 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 12:54:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:54:30 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 12:56:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 12:56:43 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:12:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:12:57 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:14:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:14:44 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:20:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:20:00 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:22:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:22:20 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:23:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:23:42 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:26:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:26:03 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:29:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:29:45 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:33:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:33:04 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:34:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:34:47 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:35:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:35:38 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:36:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:36:27 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 103
+[13-Jul-2020 13:39:35 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:39:35 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 13:40:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:40:08 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 13:43:20 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:43:20 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 13:46:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:46:08 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 13:53:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:53:02 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 13:54:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 13:54:34 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 14:04:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 14:04:11 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 14:07:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 14:07:46 UTC] PHP Notice:  Undefined variable: full_name in /home/compassi/public_html/includes/mail.php on line 58
+[13-Jul-2020 14:44:52 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
+[13-Jul-2020 16:17:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/compassi/public_html/includes/PHPMailer/PHPMailerAutoload.php on line 45
